@@ -1,4 +1,5 @@
 # Dinning-SBU visualisation in c++ language using Clui-library
+It is better to see the upstream repo first but not necessary --> https://github.com/SBU-CE/clui
 This is my Fundamental_Programming course project about dinning platform visualisation and you can read more about details in /project/Itp-fall401-FinalProject.pdf and run the project to see and test this platform
 
 
