@@ -15,10 +15,28 @@ This is my Fundamental_Programming course project about dinning platform visuali
 #### this is pictures of my project :
 
 Main menu:
+
+
+
 ![Screenshot from 2025-06-25 03-22-38](https://github.com/user-attachments/assets/fd661360-ca50-4477-8fe5-6937e3fd94c4)
 
-Account crearing
+
+
+
+Account crearing:
+
+
+
 ![Screenshot from 2025-06-25 03-23-41](https://github.com/user-attachments/assets/75bd65ac-b715-49e9-9424-e515c9055d87)
 
+
+
+
 Reserving:
+
+
+
 ![Screenshot from 2025-06-25 03-28-23](https://github.com/user-attachments/assets/a18dd702-834f-4e2e-8b61-ca7476310c54)
+
+
+
