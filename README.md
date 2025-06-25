@@ -12,7 +12,7 @@ This is my Fundamental_Programming course project about dinning platform visuali
 ### library and sample codes are tested in Windows (MinGW) and Unix (GCC, clang) with C & C++ codes.
 
 
-#### this is pictures of my project :
+#### These are pictures of my project:
 
 Main menu:
 
